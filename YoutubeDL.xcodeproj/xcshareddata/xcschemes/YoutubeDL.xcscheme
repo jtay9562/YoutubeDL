@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "60796EE119190F4100A9926B"
-               BuildableName = "Y.app"
+               BuildableName = "YoutubeDLappname.app"
                BlueprintName = "YoutubeDL"
                ReferencedContainer = "container:YoutubeDL.xcodeproj">
             </BuildableReference>
@@ -59,7 +59,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "60796EE119190F4100A9926B"
-            BuildableName = "Y.app"
+            BuildableName = "YoutubeDLappname.app"
             BlueprintName = "YoutubeDL"
             ReferencedContainer = "container:YoutubeDL.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "60796EE119190F4100A9926B"
-            BuildableName = "Y.app"
+            BuildableName = "YoutubeDLappname.app"
             BlueprintName = "YoutubeDL"
             ReferencedContainer = "container:YoutubeDL.xcodeproj">
          </BuildableReference>
